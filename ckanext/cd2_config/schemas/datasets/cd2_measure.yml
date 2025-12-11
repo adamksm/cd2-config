@@ -290,7 +290,7 @@ dataset_fields:
     - field_name: cohort_contributor_identifier_type # ORCID, SCOPUS, etc.
       label: Identifier type
     - field_name: cohort_contributor_identifier_schemeuri
-      labe: Identifier type URI
+      label: Identifier type URI
 
   # Coverage
 
